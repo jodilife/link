@@ -1,5 +1,5 @@
 #EXTM3U 
 #EXTINF:-1,coday
-https://github.com/jodilife/link/blob/main/coday.m3u8
+https://raw.githubusercontent.com/jodilife/link/main/coday.m3u8
 #EXTINF:-1,mkc
 https://raw.githubusercontent.com/jodilife/link/main/mkc.m3u8
