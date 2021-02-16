@@ -1,1 +1,3 @@
-﻿http://codaytv.eu/S.m3u8
+#EXTM3U 
+#EXTINF:-1,coday
+http://codaytv.eu/S.m3u8
