@@ -1,4 +1,5 @@
 #EXTM3U 
+#PLAYLIST:data2
 #EXTINF:-1,coday
 https://raw.githubusercontent.com/jodilife/link/main/coday.m3u8
 #EXTINF:-1,mkc
